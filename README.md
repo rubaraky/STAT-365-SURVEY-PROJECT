@@ -1,4 +1,4 @@
-# STAT 365 Term Project: Analysis of University Students' Beliefs and Metaphysical Practices
+# Analysis of University Students' Beliefs and Metaphysical Practices
 
 ##  Project Overview
 This project investigates the relationship between university students' self-identified belief labels (e.g., Theist, Atheist, Deist) and their engagement in various metaphysical practices (e.g., Prayer, Law of Attraction, Fate). 
